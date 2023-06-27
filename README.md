@@ -2,11 +2,11 @@
   <div align="center">
     <h1> Hi there, I'm <a href="https://www.linkedin.com/in/huma-saeed-%E0%AA%AC%E0%AA%BE%E0%AA%9C%E0%AA%B5%E0%AA%BE-200b87232/">Huma Bajwa</a>👋</h1>
   </div>
-	  <p><b> I'm a Web Developer, Content Writer and a Freelancer!</b></p>
+	  <p><b> I'm a Web Developer, Content Writer, and Freelancer!</b></p>
 
 - 👀 I’m interested in Web development.
 - 🌱 I’m currently learning various web development technologies and frameworks. 
-- 📢 I’m looking to collaborate in web development projects, open-source contributions.
+- 📢 I’m looking to collaborate in web development projects, and open-source contributions.
 - 📫  You can reach me by sending a message here on this platform. I'll be happy to connect with you and discuss any web development-related topics or collaboration opportunities.
 
 <p align="center">
