@@ -11,7 +11,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/huma-saeed-%E0%AA%AC%E0%AA%BE%E0%AA%9C%E0%AA%B5%E0%AA%BE-200b87232/"><img src="https://img.shields.io/badge/-Huma%20Bajwa-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:bitf20m509@pucit.edu.pk"><img src="https://img.shields.io/badge/-bitf20m509@pucit.edu.pk-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:humabajwa789@gmail.com"><img src="https://img.shields.io/badge/-bitf20m509@pucit.edu.pk-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://twitter.com/HBajwa46?t=MiUNiR62loHRo_QKp-Thbg&s=09"><img src="https://img.shields.io/twitter/follow/:HumaBajwa46"/></a>
  </p>
 
